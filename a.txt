@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Free Web tutorials">
+    <meta name="keywords" content="HTML, CSS, JavaScript">
+    <meta name="author" content="John Doe">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Paróczi Levente</title>
+</head>
+<body>
+    <div class="tarolo">
+        <div class="fejlec">
+            <div class="menu">
+                <ul>
+                    <li><a href="index.html">Kinti cicák</a></li>
+                    <li><a href="#">Benti cicák</a></li>
+                    <li><a href="#">Macskajátékok</a></li>
+                    <li><a href="#">Eseményeink</a></li>
+                </ul>
+            </div>
+            <h1>Macskaland</h1>
+            <p>Keresd meg a hozzád legjobban illő négylábúdat és böngéssz az eseményeink között!</p>
+            <a href="#">Keresem a cicám</a>
+        </div>
+        <div class="menu2">
+            <h1>Milyen élete lesz a cicádnak?</h1>
+            <p>Első körben fontos, hogy tudjuk, milyen körülmények között szeretnénk cicát tartani és milyen életet fogunk tudni neki biztosítani így fajta specifikusabban tudunk választani.</p>
+            <ul>
+                <li><a href="#">Kinti cica</a></li>
+                <li><a href="#">Benti cica</a></li>
+            </ul>
+
+        </div>
+    </div>
+
+
+</body>
+</html>
